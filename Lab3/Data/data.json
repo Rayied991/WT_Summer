@@ -1,0 +1,26 @@
+[
+    {
+        "FirstName": "MD.SHAHZAD HUSSAIN",
+        "LastName": "RAYIED",
+        "Age": "22",
+        "Email": "hussainrayied9@gmail.com",
+        "File": "Lecture_01_WT_Lab.pdf",
+        "Designation": "Junior Programmer",
+        "Preferred Language": [
+            "java",
+            "php"
+        ]
+    },
+    {
+        "FirstName": "MD.SHAHZAD HUSSAIN",
+        "LastName": "RAYIED",
+        "Age": "44",
+        "Email": "hussainrayied9@gmail.com",
+        "File": "Lecture_01_WT_Theory.pdf",
+        "Designation": "Senior Programmer",
+        "Preferred Language": [
+            "java",
+            "php"
+        ]
+    }
+]
